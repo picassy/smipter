@@ -1,6 +1,6 @@
 {
-    "tmpl_check": "9eaa5335592c626e3afcc482d4317fb6",
-    "tmpl_data": false,
-    "warp_check": "b73bd205fe607c1cf28d3c0dee65897a",
+    "tmpl_check": "feb85f1490e901e8301681427c461606",
+    "tmpl_data": "{\"status\":\"update-available\",\"message\":\"New version available! <a href=\\\"http:\\\/\\\/www.yootheme.com\\\/themes\\\/downloads\\\" target=\\\"_blank\\\">Download Nite Theme 1.0.8<\\\/a>\"}",
+    "warp_check": "335500a735cd9c07595197b3cb0aadb2",
     "warp_data": "{\"status\":\"update-available\",\"message\":\"New version available! <a href=\\\"http:\\\/\\\/www.yootheme.com\\\" target=\\\"_blank\\\">Download Warp Theme Framework 7.3.7<\\\/a>\"}"
 }
